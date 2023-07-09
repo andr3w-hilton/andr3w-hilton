@@ -23,12 +23,12 @@ Take a look at the pinned repos below and hopefully you'll find something useful
 
 #
 
-#### &#x1f4c8; GitHub Stats
+<!-- #### &#x1f4c8; GitHub Stats -->
 
 <!-- <a href="https://github.com/andr3w-hilton/andr3w-hilton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andr3w-hilton&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Andrew's GitHub Stats" />
 </a> -->
 
-<a href="https://github.com/andr3w-hilton/andr3w-hilton">
+<!-- <a href="https://github.com/andr3w-hilton/andr3w-hilton">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andr3w-hilton&show_icons=true&line_height=30&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Andrew's GitHub Stats" />
-</a>
+</a> -->
