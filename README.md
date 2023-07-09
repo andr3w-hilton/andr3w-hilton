@@ -1,6 +1,6 @@
 # 👋 Hello! 
 
-I am pretty new to coding. This space will be used to track and host my projects whilst I am learning all things Python and AI.\
+I am pretty new to coding. This space will be used to track and host my projects whilst I am learning all things Python 🐍 and AI 📉\
 (Mainly Pytorch and LLM based projects) 
 
 Take a look at the pinned repos below and hopefully you'll find something useful if you're just starting out too.\ 
